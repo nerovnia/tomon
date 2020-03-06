@@ -1,0 +1,23 @@
+{
+  "name": "tomon",
+  "version": "0.0.1",
+  "description": "Export data to MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerovnia/tomon.git"
+  },
+  "keywords": [
+    "Export",
+    "MongoDB"
+  ],
+  "author": "Volodymyr Nerovnia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerovnia/tomon/issues"
+  },
+  "homepage": "https://github.com/nerovnia/tomon#readme"
+}
