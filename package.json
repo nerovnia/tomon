@@ -4,6 +4,8 @@
   "description": "Export data to MongoDB",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "DEBUG=tomon:*",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/nerovnia/tomon/issues"
   },
-  "homepage": "https://github.com/nerovnia/tomon#readme"
+  "homepage": "https://github.com/nerovnia/tomon#readme",
+  "dependencies": {
+    "mongoose": "^5.9.3"
+  }
 }

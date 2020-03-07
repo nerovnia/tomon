@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# DB Auth config file
+dbauth.json
+
+# Files with data to export
+export
